@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://scripterhub-stats.dubovikstanislav51.workers.dev/sh/ScripterHub9898471550"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/ed8aae937f543469e368707eabd36dfd87b560756865f3ecb9d0b458b739c0eb/download"))()
